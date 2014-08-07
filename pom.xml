@@ -4,7 +4,7 @@
 	<groupId>com.woreports</groupId>
 	<artifactId>woreports-extensions</artifactId>
 	<packaging>pom</packaging>
-	<version>0.7-SNAPSHOT</version>
+	<version>0.8</version>
 	<name>WOReports Extensions</name>
 
 	<modules>
@@ -105,7 +105,8 @@
 		<connection>scm:git:git@github.com:hprange/woreports-extensions.git</connection>
 		<url>scm:git:git@github.com:hprange/woreports-extensions.git</url>
 		<developerConnection>scm:git:git@github.com:hprange/woreports-extensions.git</developerConnection>
-	</scm>
+	  <tag>woreports-extensions-0.8</tag>
+  </scm>
 	
 	<distributionManagement>
 		<repository>
