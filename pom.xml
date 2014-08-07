@@ -58,7 +58,7 @@
 			<dependency>
 				<groupId>${project.groupId}</groupId>
 				<artifactId>woreports</artifactId>
-				<version>${project.version}</version>
+				<version>0.8</version>
 			</dependency>
 			<dependency>
 				<groupId>com.google.inject</groupId>
